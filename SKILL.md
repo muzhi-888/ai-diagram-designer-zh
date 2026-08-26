@@ -1,7 +1,7 @@
 ---
 name: AI 图表设计生成器
 version: 1.0.0
-author: content-matrix
+author: 局内人·老K
 description: 输入图表类型与关键节点，自动输出带配色规范和排版层级的 SVG/HTML 设计稿。
 ---
 
